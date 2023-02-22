@@ -1,0 +1,7 @@
+AnalysisParam,Min,Max,Norm,Target
+CAX,0,1,2,3
+Flatness,0,1,2,3
+SymmetryGT,0,1,2,3
+SymmetryLR,0,1,2,3
+BQF,0,1,2,3
+Wedge,0,1,2,3

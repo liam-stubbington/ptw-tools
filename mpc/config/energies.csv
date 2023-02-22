@@ -1,0 +1,8 @@
+FLAG,track-it,valuetype,unit,modality,value
+6x,*MPC - Energy,String,MV,Photons,6X
+10x,*MPC - Energy,String,MV,Photons,10X
+6e,*MPC - Energy,String,MeV,Electrons,6MeV
+9e,*MPC - Energy,String,MeV,Electrons,9MeV
+12e,*MPC - Energy,String,MeV,Electrons,12MeV
+15e,*MPC - Energy,String,MeV,Electrons,15MeV
+18e,*MPC - Energy,String,MeV,Electrons,18MeV

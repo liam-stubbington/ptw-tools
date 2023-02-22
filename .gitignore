@@ -1,0 +1,14 @@
+/.venv
+/.vscode
+*.ipynb
+debug_run.py
+*.pyo
+*.pyc
+*.log
+*f_cm401*
+*f_cm402*
+*.xml
+*.qcw
+
+/mpc/data
+/projects

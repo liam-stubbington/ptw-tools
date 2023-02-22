@@ -1,0 +1,267 @@
+Name [Unit],P1,P2,P3,P4,track-it,unit,definition,valuetype,type,measuringdevice
+IsoCenterGroup/IsoCenterSize [mm],IsoCenterGroup,IsoCenterSize [mm],,,*MPC - IsoCenterSize,mm,MPC - IsoCenterGroup,Double,dtypes,Varian MPC
+IsoCenterGroup/IsoCenterMVOffset [mm],IsoCenterGroup,IsoCenterMVOffset [mm],,,*MPC - IsoCenterMVOffset,mm,MPC - IsoCenterGroup,Double,dtypes,Varian MPC
+IsoCenterGroup/IsoCenterKVOffset [mm],IsoCenterGroup,IsoCenterKVOffset [mm],,,*MPC - IsoCenterKVOffset,mm,MPC - IsoCenterGroup,Double,dtypes,Varian MPC
+BeamGroup/BeamOutputChange [%],BeamGroup,BeamOutputChange [%],,,*MPC - BeamOutputChange,%,MPC - BeamGroup,Double,dtypes,Varian MPC
+BeamGroup/BeamUniformityChange [%],BeamGroup,BeamUniformityChange [%],,,*MPC - BeamUniformityChange,%,MPC - BeamGroup,Double,dtypes,Varian MPC
+BeamGroup/BeamCenterShift [mm],BeamGroup,BeamCenterShift [mm],,,*MPC - BeamCenterShift,mm,MPC - BeamGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCMaxOffsetA [mm],CollimationGroup,MLCGroup,MLCMaxOffsetA [mm],,*MPC -MLCMaxOffsetA,mm,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCMaxOffsetB [mm],CollimationGroup,MLCGroup,MLCMaxOffsetB [mm],,*MPC -MLCMaxOffsetB,mm,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCMeanOffsetA [mm],CollimationGroup,MLCGroup,MLCMeanOffsetA [mm],,*MPC -MLCMeanOffsetA,mm,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCMeanOffsetB [mm],CollimationGroup,MLCGroup,MLCMeanOffsetB [mm],,*MPC -MLCMeanOffsetB,mm,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf2 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf2 [mm],*MPC - BankA Leaf2,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf3 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf3 [mm],*MPC - BankA Leaf3,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf4 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf4 [mm],*MPC - BankA Leaf4,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf5 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf5 [mm],*MPC - BankA Leaf5,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf6 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf6 [mm],*MPC - BankA Leaf6,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf7 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf7 [mm],*MPC - BankA Leaf7,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf8 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf8 [mm],*MPC - BankA Leaf8,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf9 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf9 [mm],*MPC - BankA Leaf9,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf10 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf10 [mm],*MPC - BankA Leaf10,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf11 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf11 [mm],*MPC - BankA Leaf11,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf12 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf12 [mm],*MPC - BankA Leaf12,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf13 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf13 [mm],*MPC - BankA Leaf13,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf14 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf14 [mm],*MPC - BankA Leaf14,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf15 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf15 [mm],*MPC - BankA Leaf15,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf16 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf16 [mm],*MPC - BankA Leaf16,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf17 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf17 [mm],*MPC - BankA Leaf17,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf18 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf18 [mm],*MPC - BankA Leaf18,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf19 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf19 [mm],*MPC - BankA Leaf19,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf20 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf20 [mm],*MPC - BankA Leaf20,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf21 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf21 [mm],*MPC - BankA Leaf21,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf22 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf22 [mm],*MPC - BankA Leaf22,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf23 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf23 [mm],*MPC - BankA Leaf23,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf24 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf24 [mm],*MPC - BankA Leaf24,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf25 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf25 [mm],*MPC - BankA Leaf25,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf26 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf26 [mm],*MPC - BankA Leaf26,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf27 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf27 [mm],*MPC - BankA Leaf27,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf28 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf28 [mm],*MPC - BankA Leaf28,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf29 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf29 [mm],*MPC - BankA Leaf29,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf30 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf30 [mm],*MPC - BankA Leaf30,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf31 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf31 [mm],*MPC - BankA Leaf31,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf32 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf32 [mm],*MPC - BankA Leaf32,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf33 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf33 [mm],*MPC - BankA Leaf33,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf34 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf34 [mm],*MPC - BankA Leaf34,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf35 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf35 [mm],*MPC - BankA Leaf35,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf36 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf36 [mm],*MPC - BankA Leaf36,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf37 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf37 [mm],*MPC - BankA Leaf37,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf38 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf38 [mm],*MPC - BankA Leaf38,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf39 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf39 [mm],*MPC - BankA Leaf39,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf40 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf40 [mm],*MPC - BankA Leaf40,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf41 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf41 [mm],*MPC - BankA Leaf41,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf42 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf42 [mm],*MPC - BankA Leaf42,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf43 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf43 [mm],*MPC - BankA Leaf43,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf44 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf44 [mm],*MPC - BankA Leaf44,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf45 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf45 [mm],*MPC - BankA Leaf45,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf46 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf46 [mm],*MPC - BankA Leaf46,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf47 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf47 [mm],*MPC - BankA Leaf47,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf48 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf48 [mm],*MPC - BankA Leaf48,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf49 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf49 [mm],*MPC - BankA Leaf49,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf50 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf50 [mm],*MPC - BankA Leaf50,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf51 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf51 [mm],*MPC - BankA Leaf51,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf52 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf52 [mm],*MPC - BankA Leaf52,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf53 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf53 [mm],*MPC - BankA Leaf53,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf54 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf54 [mm],*MPC - BankA Leaf54,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf55 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf55 [mm],*MPC - BankA Leaf55,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf56 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf56 [mm],*MPC - BankA Leaf56,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf57 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf57 [mm],*MPC - BankA Leaf57,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf58 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf58 [mm],*MPC - BankA Leaf58,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesA/MLCLeaf59 [mm],CollimationGroup,MLCGroup,MLCLeavesA,MLCLeaf59 [mm],*MPC - BankA Leaf59,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf2 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf2 [mm],*MPC - BankB Leaf2,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf3 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf3 [mm],*MPC - BankB Leaf3,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf4 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf4 [mm],*MPC - BankB Leaf4,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf5 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf5 [mm],*MPC - BankB Leaf5,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf6 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf6 [mm],*MPC - BankB Leaf6,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf7 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf7 [mm],*MPC - BankB Leaf7,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf8 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf8 [mm],*MPC - BankB Leaf8,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf9 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf9 [mm],*MPC - BankB Leaf9,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf10 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf10 [mm],*MPC - BankB Leaf10,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf11 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf11 [mm],*MPC - BankB Leaf11,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf12 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf12 [mm],*MPC - BankB Leaf12,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf13 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf13 [mm],*MPC - BankB Leaf13,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf14 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf14 [mm],*MPC - BankB Leaf14,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf15 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf15 [mm],*MPC - BankB Leaf15,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf16 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf16 [mm],*MPC - BankB Leaf16,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf17 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf17 [mm],*MPC - BankB Leaf17,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf18 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf18 [mm],*MPC - BankB Leaf18,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf19 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf19 [mm],*MPC - BankB Leaf19,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf20 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf20 [mm],*MPC - BankB Leaf20,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf21 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf21 [mm],*MPC - BankB Leaf21,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf22 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf22 [mm],*MPC - BankB Leaf22,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf23 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf23 [mm],*MPC - BankB Leaf23,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf24 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf24 [mm],*MPC - BankB Leaf24,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf25 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf25 [mm],*MPC - BankB Leaf25,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf26 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf26 [mm],*MPC - BankB Leaf26,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf27 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf27 [mm],*MPC - BankB Leaf27,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf28 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf28 [mm],*MPC - BankB Leaf28,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf29 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf29 [mm],*MPC - BankB Leaf29,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf30 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf30 [mm],*MPC - BankB Leaf30,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf31 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf31 [mm],*MPC - BankB Leaf31,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf32 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf32 [mm],*MPC - BankB Leaf32,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf33 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf33 [mm],*MPC - BankB Leaf33,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf34 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf34 [mm],*MPC - BankB Leaf34,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf35 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf35 [mm],*MPC - BankB Leaf35,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf36 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf36 [mm],*MPC - BankB Leaf36,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf37 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf37 [mm],*MPC - BankB Leaf37,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf38 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf38 [mm],*MPC - BankB Leaf38,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf39 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf39 [mm],*MPC - BankB Leaf39,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf40 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf40 [mm],*MPC - BankB Leaf40,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf41 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf41 [mm],*MPC - BankB Leaf41,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf42 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf42 [mm],*MPC - BankB Leaf42,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf43 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf43 [mm],*MPC - BankB Leaf43,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf44 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf44 [mm],*MPC - BankB Leaf44,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf45 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf45 [mm],*MPC - BankB Leaf45,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf46 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf46 [mm],*MPC - BankB Leaf46,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf47 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf47 [mm],*MPC - BankB Leaf47,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf48 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf48 [mm],*MPC - BankB Leaf48,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf49 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf49 [mm],*MPC - BankB Leaf49,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf50 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf50 [mm],*MPC - BankB Leaf50,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf51 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf51 [mm],*MPC - BankB Leaf51,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf52 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf52 [mm],*MPC - BankB Leaf52,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf53 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf53 [mm],*MPC - BankB Leaf53,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf54 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf54 [mm],*MPC - BankB Leaf54,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf55 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf55 [mm],*MPC - BankB Leaf55,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf56 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf56 [mm],*MPC - BankB Leaf56,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf57 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf57 [mm],*MPC - BankB Leaf57,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf58 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf58 [mm],*MPC - BankB Leaf58,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCGroup/MLCLeavesB/MLCLeaf59 [mm],CollimationGroup,MLCGroup,MLCLeavesB,MLCLeaf59 [mm],*MPC - BankB Leaf59,mm,MPC - MLCGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashMaxA [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashMaxA [mm],,*MPC -MLCBacklashMaxA,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashMaxB [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashMaxB [mm],,*MPC -MLCBacklashMaxB,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashMeanA [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashMeanA [mm],,*MPC -MLCBacklashMeanA,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashMeanB [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashMeanB [mm],,*MPC -MLCBacklashMeanB,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf2 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf2 [mm],*MPC - BankA BacklashLeaf2,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf3 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf3 [mm],*MPC - BankA BacklashLeaf3,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf4 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf4 [mm],*MPC - BankA BacklashLeaf4,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf5 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf5 [mm],*MPC - BankA BacklashLeaf5,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf6 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf6 [mm],*MPC - BankA BacklashLeaf6,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf7 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf7 [mm],*MPC - BankA BacklashLeaf7,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf8 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf8 [mm],*MPC - BankA BacklashLeaf8,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf9 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf9 [mm],*MPC - BankA BacklashLeaf9,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf10 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf10 [mm],*MPC - BankA BacklashLeaf10,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf11 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf11 [mm],*MPC - BankA BacklashLeaf11,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf12 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf12 [mm],*MPC - BankA BacklashLeaf12,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf13 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf13 [mm],*MPC - BankA BacklashLeaf13,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf14 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf14 [mm],*MPC - BankA BacklashLeaf14,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf15 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf15 [mm],*MPC - BankA BacklashLeaf15,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf16 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf16 [mm],*MPC - BankA BacklashLeaf16,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf17 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf17 [mm],*MPC - BankA BacklashLeaf17,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf18 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf18 [mm],*MPC - BankA BacklashLeaf18,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf19 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf19 [mm],*MPC - BankA BacklashLeaf19,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf20 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf20 [mm],*MPC - BankA BacklashLeaf20,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf21 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf21 [mm],*MPC - BankA BacklashLeaf21,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf22 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf22 [mm],*MPC - BankA BacklashLeaf22,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf23 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf23 [mm],*MPC - BankA BacklashLeaf23,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf24 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf24 [mm],*MPC - BankA BacklashLeaf24,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf25 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf25 [mm],*MPC - BankA BacklashLeaf25,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf26 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf26 [mm],*MPC - BankA BacklashLeaf26,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf27 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf27 [mm],*MPC - BankA BacklashLeaf27,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf28 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf28 [mm],*MPC - BankA BacklashLeaf28,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf29 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf29 [mm],*MPC - BankA BacklashLeaf29,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf30 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf30 [mm],*MPC - BankA BacklashLeaf30,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf31 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf31 [mm],*MPC - BankA BacklashLeaf31,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf32 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf32 [mm],*MPC - BankA BacklashLeaf32,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf33 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf33 [mm],*MPC - BankA BacklashLeaf33,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf34 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf34 [mm],*MPC - BankA BacklashLeaf34,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf35 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf35 [mm],*MPC - BankA BacklashLeaf35,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf36 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf36 [mm],*MPC - BankA BacklashLeaf36,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf37 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf37 [mm],*MPC - BankA BacklashLeaf37,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf38 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf38 [mm],*MPC - BankA BacklashLeaf38,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf39 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf39 [mm],*MPC - BankA BacklashLeaf39,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf40 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf40 [mm],*MPC - BankA BacklashLeaf40,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf41 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf41 [mm],*MPC - BankA BacklashLeaf41,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf42 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf42 [mm],*MPC - BankA BacklashLeaf42,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf43 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf43 [mm],*MPC - BankA BacklashLeaf43,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf44 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf44 [mm],*MPC - BankA BacklashLeaf44,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf45 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf45 [mm],*MPC - BankA BacklashLeaf45,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf46 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf46 [mm],*MPC - BankA BacklashLeaf46,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf47 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf47 [mm],*MPC - BankA BacklashLeaf47,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf48 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf48 [mm],*MPC - BankA BacklashLeaf48,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf49 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf49 [mm],*MPC - BankA BacklashLeaf49,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf50 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf50 [mm],*MPC - BankA BacklashLeaf50,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf51 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf51 [mm],*MPC - BankA BacklashLeaf51,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf52 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf52 [mm],*MPC - BankA BacklashLeaf52,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf53 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf53 [mm],*MPC - BankA BacklashLeaf53,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf54 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf54 [mm],*MPC - BankA BacklashLeaf54,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf55 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf55 [mm],*MPC - BankA BacklashLeaf55,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf56 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf56 [mm],*MPC - BankA BacklashLeaf56,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf57 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf57 [mm],*MPC - BankA BacklashLeaf57,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf58 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf58 [mm],*MPC - BankA BacklashLeaf58,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesA/MLCBacklashLeaf59 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesA,MLCBacklashLeaf59 [mm],*MPC - BankA BacklashLeaf59,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf2 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf2 [mm],*MPC - BankB BacklashLeaf2,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf3 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf3 [mm],*MPC - BankB BacklashLeaf3,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf4 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf4 [mm],*MPC - BankB BacklashLeaf4,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf5 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf5 [mm],*MPC - BankB BacklashLeaf5,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf6 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf6 [mm],*MPC - BankB BacklashLeaf6,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf7 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf7 [mm],*MPC - BankB BacklashLeaf7,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf8 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf8 [mm],*MPC - BankB BacklashLeaf8,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf9 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf9 [mm],*MPC - BankB BacklashLeaf9,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf10 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf10 [mm],*MPC - BankB BacklashLeaf10,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf11 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf11 [mm],*MPC - BankB BacklashLeaf11,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf12 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf12 [mm],*MPC - BankB BacklashLeaf12,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf13 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf13 [mm],*MPC - BankB BacklashLeaf13,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf14 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf14 [mm],*MPC - BankB BacklashLeaf14,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf15 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf15 [mm],*MPC - BankB BacklashLeaf15,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf16 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf16 [mm],*MPC - BankB BacklashLeaf16,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf17 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf17 [mm],*MPC - BankB BacklashLeaf17,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf18 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf18 [mm],*MPC - BankB BacklashLeaf18,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf19 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf19 [mm],*MPC - BankB BacklashLeaf19,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf20 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf20 [mm],*MPC - BankB BacklashLeaf20,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf21 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf21 [mm],*MPC - BankB BacklashLeaf21,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf22 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf22 [mm],*MPC - BankB BacklashLeaf22,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf23 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf23 [mm],*MPC - BankB BacklashLeaf23,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf24 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf24 [mm],*MPC - BankB BacklashLeaf24,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf25 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf25 [mm],*MPC - BankB BacklashLeaf25,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf26 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf26 [mm],*MPC - BankB BacklashLeaf26,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf27 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf27 [mm],*MPC - BankB BacklashLeaf27,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf28 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf28 [mm],*MPC - BankB BacklashLeaf28,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf29 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf29 [mm],*MPC - BankB BacklashLeaf29,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf30 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf30 [mm],*MPC - BankB BacklashLeaf30,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf31 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf31 [mm],*MPC - BankB BacklashLeaf31,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf32 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf32 [mm],*MPC - BankB BacklashLeaf32,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf33 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf33 [mm],*MPC - BankB BacklashLeaf33,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf34 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf34 [mm],*MPC - BankB BacklashLeaf34,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf35 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf35 [mm],*MPC - BankB BacklashLeaf35,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf36 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf36 [mm],*MPC - BankB BacklashLeaf36,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf37 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf37 [mm],*MPC - BankB BacklashLeaf37,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf38 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf38 [mm],*MPC - BankB BacklashLeaf38,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf39 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf39 [mm],*MPC - BankB BacklashLeaf39,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf40 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf40 [mm],*MPC - BankB BacklashLeaf40,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf41 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf41 [mm],*MPC - BankB BacklashLeaf41,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf42 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf42 [mm],*MPC - BankB BacklashLeaf42,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf43 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf43 [mm],*MPC - BankB BacklashLeaf43,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf44 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf44 [mm],*MPC - BankB BacklashLeaf44,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf45 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf45 [mm],*MPC - BankB BacklashLeaf45,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf46 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf46 [mm],*MPC - BankB BacklashLeaf46,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf47 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf47 [mm],*MPC - BankB BacklashLeaf47,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf48 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf48 [mm],*MPC - BankB BacklashLeaf48,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf49 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf49 [mm],*MPC - BankB BacklashLeaf49,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf50 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf50 [mm],*MPC - BankB BacklashLeaf50,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf51 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf51 [mm],*MPC - BankB BacklashLeaf51,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf52 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf52 [mm],*MPC - BankB BacklashLeaf52,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf53 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf53 [mm],*MPC - BankB BacklashLeaf53,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf54 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf54 [mm],*MPC - BankB BacklashLeaf54,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf55 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf55 [mm],*MPC - BankB BacklashLeaf55,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf56 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf56 [mm],*MPC - BankB BacklashLeaf56,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf57 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf57 [mm],*MPC - BankB BacklashLeaf57,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf58 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf58 [mm],*MPC - BankB BacklashLeaf58,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/MLCBacklashGroup/MLCBacklashLeavesB/MLCBacklashLeaf59 [mm],CollimationGroup,MLCBacklashGroup,MLCBacklashLeavesB,MLCBacklashLeaf59 [mm],*MPC - BankB BacklashLeaf59,mm,MPC - MLCBacklashGroup,Double,dtypes,Varian MPC
+CollimationGroup/JawsGroup/JawX1 [mm],CollimationGroup,JawsGroup,JawX1 [mm],,*MPC -JawX1,mm,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/JawsGroup/JawX2 [mm],CollimationGroup,JawsGroup,JawX2 [mm],,*MPC -JawX2,mm,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/JawsGroup/JawY1 [mm],CollimationGroup,JawsGroup,JawY1 [mm],,*MPC -JawY1,mm,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/JawsGroup/JawY2 [mm],CollimationGroup,JawsGroup,JawY2 [mm],,*MPC -JawY2,mm,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/JawsParallelismGroup/JawParallelismX1 [°],CollimationGroup,JawsParallelismGroup,JawParallelismX1 [°],,*MPC -JawParallelismX1,Deg,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/JawsParallelismGroup/JawParallelismX2 [°],CollimationGroup,JawsParallelismGroup,JawParallelismX2 [°],,*MPC -JawParallelismX2,Deg,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/JawsParallelismGroup/JawParallelismY1 [°],CollimationGroup,JawsParallelismGroup,JawParallelismY1 [°],,*MPC -JawParallelismY1,Deg,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/JawsParallelismGroup/JawParallelismY2 [°],CollimationGroup,JawsParallelismGroup,JawParallelismY2 [°],,*MPC -JawParallelismY2,Deg,MPC - CollimationGroup,Double,dtypes,Varian MPC
+CollimationGroup/CollimationRotationOffset [°],CollimationGroup,CollimationRotationOffset [°],,,*MPC -CollimationRotationOffset,Deg,MPC - CollimationGroup,Double,dtypes,Varian MPC
+GantryGroup/GantryAbsolute [°],GantryGroup,GantryAbsolute [°],,,*MPC -GantryAbsolute,Deg,MPC - GantryGroup,Double,dtypes,Varian MPC
+GantryGroup/GantryRelative [°],GantryGroup,GantryRelative [°],,,*MPC -GantryRelative,Deg,MPC - GantryGroup,Double,dtypes,Varian MPC
+EnhancedCouchGroup/CouchMaxPositionError [mm],EnhancedCouchGroup,CouchMaxPositionError [mm],,,*MPC -CouchMaxPositionError,mm,MPC - EnhancedCouchGroup,Double,dtypes,Varian MPC
+EnhancedCouchGroup/CouchLat [mm],EnhancedCouchGroup,CouchLat [mm],,,*MPC -CouchLat,mm,MPC - EnhancedCouchGroup,Double,dtypes,Varian MPC
+EnhancedCouchGroup/CouchLng [mm],EnhancedCouchGroup,CouchLng [mm],,,*MPC -CouchLng,mm,MPC - EnhancedCouchGroup,Double,dtypes,Varian MPC
+EnhancedCouchGroup/CouchVrt [mm],EnhancedCouchGroup,CouchVrt [mm],,,*MPC -CouchVrt,mm,MPC - EnhancedCouchGroup,Double,dtypes,Varian MPC
+EnhancedCouchGroup/CouchRtnFine [°],EnhancedCouchGroup,CouchRtnFine [°],,,*MPC -CouchRtnFine,Deg,MPC - EnhancedCouchGroup,Double,dtypes,Varian MPC
+EnhancedCouchGroup/CouchRtnLarge [°],EnhancedCouchGroup,CouchRtnLarge [°],,,*MPC -CouchRtnLarge,Deg,MPC - EnhancedCouchGroup,Double,dtypes,Varian MPC
+EnhancedCouchGroup/CouchPit [°],EnhancedCouchGroup,CouchPit [°],,,*MPC -CouchPit,Deg,MPC - EnhancedCouchGroup,Double,dtypes,Varian MPC
+EnhancedCouchGroup/CouchRol [°],EnhancedCouchGroup,CouchRol [°],,,*MPC -CouchRol,Deg,MPC - EnhancedCouchGroup,Double,dtypes,Varian MPC
+EnhancedCouchGroup/RotationInducedCouchShiftFullRange [mm],EnhancedCouchGroup,RotationInducedCouchShiftFullRange [mm],,,*MPC -RotationInducedCouchShiftFullRange,mm,MPC - EnhancedCouchGroup,Double,dtypes,Varian MPC
